@@ -1,0 +1,2 @@
+25
+Learning numpy was difficult, but I think it was worth it. It can do a lot of cool stuff! I used a lot of slip days for this project, so I'm hoping what I learned will help me with future assignments.

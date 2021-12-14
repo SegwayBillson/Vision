@@ -1,0 +1,11 @@
+#!/home/woodsd4/cs-497/project-3-SegwayBillson/project-3-woodsd4/497_p3_env/bin/python3
+
+# -*- coding: utf-8 -*-
+import re
+import sys
+
+from pip import main
+
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw?|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
